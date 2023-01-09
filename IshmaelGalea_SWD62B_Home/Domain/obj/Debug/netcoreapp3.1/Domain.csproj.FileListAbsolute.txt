@@ -1,0 +1,13 @@
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache

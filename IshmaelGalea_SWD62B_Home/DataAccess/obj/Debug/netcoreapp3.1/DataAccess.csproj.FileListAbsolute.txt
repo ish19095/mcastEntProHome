@@ -1,0 +1,16 @@
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\ishma\source\repos\mcastEnterprise\Program_1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
