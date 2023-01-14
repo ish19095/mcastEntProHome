@@ -5672,11 +5672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ishma\\source\\repos\\mcastEnterprise\\Program_1\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ishma\\Documents\\MCAST\\Year 2\\Sem 1\\EP\\home\\IshmaelGalea_SWD62B_Home\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\ishma\\source\\repos\\mcastEnterprise\\Program_1\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\ishma\\Documents\\MCAST\\Year 2\\Sem 1\\EP\\home\\IshmaelGalea_SWD62B_Home\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\ishma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ishma\\source\\repos\\mcastEnterprise\\Program_1\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\ishma\\Documents\\MCAST\\Year 2\\Sem 1\\EP\\home\\IshmaelGalea_SWD62B_Home\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ishma\\AppData\\Roaming\\NuGet\\NuGet.Config",

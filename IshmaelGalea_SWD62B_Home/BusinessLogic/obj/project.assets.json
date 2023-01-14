@@ -5719,11 +5719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ishma\\source\\repos\\mcastEnterprise\\Program_1\\BusinessLogic\\BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\ishma\\Documents\\MCAST\\Year 2\\Sem 1\\EP\\home\\IshmaelGalea_SWD62B_Home\\BusinessLogic\\BusinessLogic.csproj",
       "projectName": "BusinessLogic",
-      "projectPath": "C:\\Users\\ishma\\source\\repos\\mcastEnterprise\\Program_1\\BusinessLogic\\BusinessLogic.csproj",
+      "projectPath": "C:\\Users\\ishma\\Documents\\MCAST\\Year 2\\Sem 1\\EP\\home\\IshmaelGalea_SWD62B_Home\\BusinessLogic\\BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\ishma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ishma\\source\\repos\\mcastEnterprise\\Program_1\\BusinessLogic\\obj\\",
+      "outputPath": "C:\\Users\\ishma\\Documents\\MCAST\\Year 2\\Sem 1\\EP\\home\\IshmaelGalea_SWD62B_Home\\BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ishma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5740,11 +5740,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ishma\\source\\repos\\mcastEnterprise\\Program_1\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\ishma\\source\\repos\\mcastEnterprise\\Program_1\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\ishma\\Documents\\MCAST\\Year 2\\Sem 1\\EP\\home\\IshmaelGalea_SWD62B_Home\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\ishma\\Documents\\MCAST\\Year 2\\Sem 1\\EP\\home\\IshmaelGalea_SWD62B_Home\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\ishma\\source\\repos\\mcastEnterprise\\Program_1\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\ishma\\source\\repos\\mcastEnterprise\\Program_1\\Domain\\Domain.csproj"
+            "C:\\Users\\ishma\\Documents\\MCAST\\Year 2\\Sem 1\\EP\\home\\IshmaelGalea_SWD62B_Home\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\ishma\\Documents\\MCAST\\Year 2\\Sem 1\\EP\\home\\IshmaelGalea_SWD62B_Home\\Domain\\Domain.csproj"
             }
           }
         }
