@@ -8,5 +8,9 @@ namespace Domain.Models
 {
     public class CustomUsers : IdentityUser
     {
+        public  string FirstName { get; set; }
+        public string LastName { get; set; }
+        public DateTime DateOfBirth { get; set; }
+        public int ContactNumber { get; set; }
     }
 }
