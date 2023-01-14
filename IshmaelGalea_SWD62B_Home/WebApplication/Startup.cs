@@ -1,21 +1,19 @@
-using DataAccess.Context;
+using BusinessLogic.Services;
+using DataAccess.context;
+using DataAccess.Repositories;
+using Domain.Interface;
+using Domain.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.UI;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using WebApplication.Data;
+
 
 namespace WebApplication
-{
+{ 
     public class Startup
     {
         public Startup(IConfiguration configuration)
@@ -28,15 +26,22 @@ namespace WebApplication
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<ShoppingCartContext>(options =>
+            services.AddDbContext<FileSharingContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
-            services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                .AddEntityFrameworkStores<ShoppingCartContext>();
+            services.AddDefaultIdentity<CustomUsers>(options => options.SignIn.RequireConfirmedAccount = false)
+                .AddEntityFrameworkStores<FileSharingContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
 
-            
+           
+            services.AddScoped<TextFileDbRepository>();
+            services.AddScoped<FileService>();
+            services.AddScoped<LogService>();
+            services.AddScoped<ILogRepository, LogViaEmailRepository>();
+           // services.AddScoped<ILogRepository, LogViaDBRepository>();
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -49,7 +54,10 @@ namespace WebApplication
             }
             else
             {
-                app.UseExceptionHandler("/Home/Error");
+
+                app.UseDeveloperExceptionPage();
+                app.UseDatabaseErrorPage();
+                //app.UseExceptionHandler("/Home/Error");
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }

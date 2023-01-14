@@ -23,7 +23,7 @@ namespace BusinessLogic.Services
         {
             if (textFileDbRepository.GetFiles().Where(file => file.FileName == fileName).Count() > 0)
             {
-                throw new Exception("Kindly change the file name.");
+                throw new Exception("Kindly change the file name.3");
             }
             textFileDbRepository.CreateFile(new Domain.Models.TextFile()
             {
