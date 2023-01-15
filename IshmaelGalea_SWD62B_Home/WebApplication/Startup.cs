@@ -38,8 +38,8 @@ namespace WebApplication
             services.AddScoped<TextFileDbRepository>();
             services.AddScoped<FileService>();
             services.AddScoped<LogService>();
-            services.AddScoped<ILogRepository, LogViaEmailRepository>();
-           // services.AddScoped<ILogRepository, LogViaDBRepository>();
+            // services.AddScoped<ILogRepository, LogViaEmailRepository>();
+            services.AddScoped<ILogRepository, LogViaDBRepository>();
 
 
         }

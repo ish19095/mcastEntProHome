@@ -1,0 +1,16 @@
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\bin\Release\netcoreapp3.1\DataAccess.deps.json
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\bin\Release\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\bin\Release\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\bin\Release\netcoreapp3.1\Domain.dll
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\bin\Release\netcoreapp3.1\Domain.pdb
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\obj\Release\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\obj\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\obj\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\DataAccess\obj\Release\netcoreapp3.1\DataAccess.genruntimeconfig.cache
