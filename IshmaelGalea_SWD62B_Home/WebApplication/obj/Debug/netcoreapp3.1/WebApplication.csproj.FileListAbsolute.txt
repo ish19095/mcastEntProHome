@@ -863,7 +863,6 @@ C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\Web
 C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\File\ListFiles.cshtml.g.cs
 C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\File\ShareFile.cshtml.g.cs
 C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\WebApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
@@ -877,3 +876,7 @@ C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\Web
 C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
 C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
 C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ishma\Documents\MCAST\Year 2\Sem 1\EP\home\IshmaelGalea_SWD62B_Home\WebApplication\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
